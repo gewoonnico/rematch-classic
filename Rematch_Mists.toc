@@ -2,8 +2,8 @@
 ## Name: Rematch
 ## Author: Gello
 ## Version: 5.2.10-mop
-## Interface: 50500
-## X-Interface: 50500
+## Interface: 50503
+## X-Interface: 50503
 ## Notes: A pet journal alternative for managing pets and teams
 ## SavedVariables: Rematch5Settings, Rematch5SavedTeams, Rematch5SavedGroups, Rematch5SavedTargets, Rematch4Saved, Rematch4Settings, RematchSaved, RematchSettings
 ## IconTexture: Interface\AddOns\Rematch\textures\icon
